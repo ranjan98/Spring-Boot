@@ -7,11 +7,6 @@
 <title>My Courses</title>
 </head>
 <body>
-Top Selling Courses are:
-1. DevOps
-2. Python
-3. Java
-4. AWS
-5. RWA
+Welcome to My Courses ${cname}
 </body>
 </html>
